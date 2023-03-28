@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
-class IfpistoreConfig(AppConfig):
+class TodoListConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "ifpiStore"
+    name = "todo_list"
